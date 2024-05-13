@@ -1,0 +1,868 @@
+{
+    "orders": [
+        {
+            "id": "4a7343a1-ce4c-472e-bc85-9db81e22de83",
+            "total": 18.35,
+            "used_app": true,
+            "customer_id": "1234",
+            "items": [
+                {
+                    "name": "latte",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["syrup.caramel", "syrup.vanilla"],
+                    "category": "espresso",
+                    "price": 6.45
+                },
+                {
+                    "name": "latte",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["syrup.caramel", "syrup.vanilla", "ice.ice"],
+                    "category": "espresso",
+                    "price": 6.95
+                },
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "trenta",
+                    "type": "iced",
+                    "add_ins": [
+                        "inclusion.strawberry",
+                        "inclusion.dragonfruit",
+                        "ice.ice"
+                    ],
+                    "category": "refresher",
+                    "price": 4.95
+                }
+            ]
+        },
+        {
+            "id": "70c78e53-123c-4e89-82c3-13727aecad85",
+            "total": 18.450000000000003,
+            "used_app": true,
+            "customer_id": "31f4ff84-655b-4b9d-8e14-542ed3bed4e3",
+            "items": [
+                {
+                    "name": "caramel frappuccino",
+                    "size": "venti",
+                    "type": "frappuccino",
+                    "add_ins": [],
+                    "category": "frappuccino",
+                    "price": 6.15
+                },
+                {
+                    "name": "caramel frappuccino",
+                    "size": "venti",
+                    "type": "frappuccino",
+                    "add_ins": [],
+                    "category": "frappuccino",
+                    "price": 6.15
+                },
+                {
+                    "name": "caramel frappuccino",
+                    "size": "venti",
+                    "type": "frappuccino",
+                    "add_ins": [],
+                    "category": "frappuccino",
+                    "price": 6.15
+                }
+            ]
+        },
+        {
+            "id": "08ed5c17-def6-40ff-8735-f568cf362856",
+            "total": 9.2,
+            "used_app": true,
+            "customer_id": "31f4ff84-655b-4b9d-8e14-542ed3bed4e3",
+            "items": [
+                {
+                    "name": "cappuccino",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 4.95
+                },
+                {
+                    "name": "hot chocolate",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 4.25
+                }
+            ]
+        },
+        {
+            "id": "7636979a-032c-48ff-a4e1-13e372f10dcf",
+            "total": 5.45,
+            "used_app": false,
+            "customer_id": "0ba19d5d-2a72-4e3d-83a2-4dd9aca27e99",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "tall",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 5.45
+                }
+            ]
+        },
+        {
+            "id": "86caf9d2-6bfb-4cd0-b6a6-34467398b611",
+            "total": 6.45,
+            "used_app": false,
+            "customer_id": "09728a9b-aa07-49f3-bbbb-5d2ffaa2517c",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "tall",
+                    "type": "iced",
+                    "add_ins": ["topping.caramel_drizzle.2"],
+                    "category": "espresso",
+                    "price": 6.45
+                }
+            ]
+        },
+        {
+            "id": "224e8eeb-d801-4107-b203-79360e629e7b",
+            "total": 6.95,
+            "used_app": false,
+            "customer_id": "e957c4cb-43a1-4076-a0f3-25acd40f9610",
+            "items": [
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.95
+                }
+            ]
+        },
+        {
+            "id": "523e77d2-61ff-4d98-85cc-e65850a6990f",
+            "total": 28.349999999999998,
+            "used_app": true,
+            "customer_id": "e957c4cb-43a1-4076-a0f3-25acd40f9610",
+            "items": [
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.95
+                },
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.95
+                },
+                {
+                    "name": "vanilla bean frappuccino",
+                    "size": "grande",
+                    "type": "frappuccino",
+                    "add_ins": ["topping.caramel_drizzle.3"],
+                    "category": "frappuccino",
+                    "price": 5.75
+                },
+                {
+                    "name": "vanilla bean frappuccino",
+                    "size": "grande",
+                    "type": "frappuccino",
+                    "add_ins": [],
+                    "category": "frappuccino",
+                    "price": 5.25
+                },
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": ["ice.ice.0"],
+                    "category": "refresher",
+                    "price": 3.45
+                }
+            ]
+        },
+        {
+            "id": "568597bc-5339-41c7-9bec-f5fdc5657f8f",
+            "total": 5.95,
+            "used_app": false,
+            "customer_id": "b975666d-8d5f-43dc-9369-0d7cdbde0f5a",
+            "items": [
+                {
+                    "name": "latte",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["syrup.vanilla"],
+                    "category": "espresso",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "1f7a7961-ae3f-4f6c-a9de-4a6270ea5d80",
+            "total": 6.45,
+            "used_app": false,
+            "customer_id": "265d71dd-24e0-4c84-9c77-3b8bc5341293",
+            "items": [
+                {
+                    "name": "caramel macchiato",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["topping.caramel_drizzle.3"],
+                    "category": "espresso",
+                    "price": 6.45
+                }
+            ]
+        },
+        {
+            "id": "21ecae90-c108-4d0b-901b-3d21326fdb4d",
+            "total": 10.2,
+            "used_app": true,
+            "customer_id": "85d0ce8c-c14a-43c9-8ded-032baf26aa25",
+            "items": [
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 4.45
+                },
+                {
+                    "name": "pineapple passion refresher",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 5.75
+                }
+            ]
+        },
+        {
+            "id": "7d77a6e8-919d-4541-a50d-0ae34d90d932",
+            "total": 9.2,
+            "used_app": true,
+            "customer_id": "70f30858-b28c-4748-84de-ca54292f4cb1",
+            "items": [
+                {
+                    "name": "cappuccino",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 4.95
+                },
+                {
+                    "name": "hot chocolate",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 4.25
+                }
+            ]
+        },
+        {
+            "id": "e1111655-0a2c-4080-9ab5-27dbde8033ae",
+            "total": 14.350000000000001,
+            "used_app": false,
+            "customer_id": "4b09ba6b-bf87-4106-b67d-2b40f2a01141",
+            "items": [
+                {
+                    "name": "pike place",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": ["milk.oat", "syrup.classic.7"],
+                    "category": "coffee",
+                    "price": 3.95
+                },
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.45
+                },
+                {
+                    "name": "pike place",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": ["milk.oat", "syrup.classic.7"],
+                    "category": "coffee",
+                    "price": 3.95
+                }
+            ]
+        },
+        {
+            "id": "447f5272-c371-4ba7-b349-65b4a2ed58d8",
+            "total": 17.35,
+            "used_app": false,
+            "customer_id": "acb13cfd-87bf-4a47-a111-e731e31674f1",
+            "items": [
+                {
+                    "name": "honey citrus mint tea",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "tea",
+                    "price": 4.45
+                },
+                {
+                    "name": "shaken espresso",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic.0",
+                        "syrup.vanilla",
+                        "milk.sweet_cream.2"
+                    ],
+                    "category": "espresso",
+                    "price": 6.45
+                },
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["syrup.white_mocha.3"],
+                    "category": "espresso",
+                    "price": 6.45
+                }
+            ]
+        },
+        {
+            "id": "26524927-cf0f-4d92-a189-925583e5e678",
+            "total": 5.75,
+            "used_app": false,
+            "customer_id": "5f5cb4cf-5407-4c2c-b162-78d16546158d",
+            "items": [
+                {
+                    "name": "pink drink",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["ice.ice.1"],
+                    "category": "refresher",
+                    "price": 5.75
+                }
+            ]
+        },
+        {
+            "id": "4cdc7156-3063-475c-a74b-f6aa584a55d8",
+            "total": 14.850000000000001,
+            "used_app": true,
+            "customer_id": "baf6376b-5d97-4794-8ace-2934a82a65c4",
+            "items": [
+                {
+                    "name": "green tea",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "tea",
+                    "price": 4.65
+                },
+                {
+                    "name": "mango dragonfruit refresher",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 5.75
+                },
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 4.45
+                }
+            ]
+        },
+        {
+            "id": "5024b710-abc1-4370-9973-c9e0d7cf6678",
+            "total": 29.15,
+            "used_app": true,
+            "customer_id": "e3d41774-9df1-42f7-974f-5bdbaaa36118",
+            "items": [
+                {
+                    "name": "iced coffee",
+                    "size": "trenta",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic",
+                        "syrup.vanilla",
+                        "milk.sweet_cream"
+                    ],
+                    "category": "coffee",
+                    "price": 6.45
+                },
+                {
+                    "name": "caramel frappuccino",
+                    "size": "tall",
+                    "type": "frappuccino",
+                    "add_ins": ["topping.caramel_drizzle.3"],
+                    "category": "frappuccino",
+                    "price": 5.65
+                },
+                {
+                    "name": "vanilla bean frappuccino",
+                    "size": "tall",
+                    "type": "frappuccino",
+                    "add_ins": [
+                        "topping.caramel_drizzle.3",
+                        "topping.whipped_cream.0"
+                    ],
+                    "category": "frappuccino",
+                    "price": 5.75
+                },
+                {
+                    "name": "caramel frappuccino",
+                    "size": "tall",
+                    "type": "frappuccino",
+                    "add_ins": ["topping.caramel_drizzle.3"],
+                    "category": "frappuccino",
+                    "price": 5.65
+                },
+                {
+                    "name": "caramel frappuccino",
+                    "size": "tall",
+                    "type": "frappuccino",
+                    "add_ins": ["topping.caramel_drizzle.3"],
+                    "category": "frappuccino",
+                    "price": 5.65
+                }
+            ]
+        },
+        {
+            "id": "d47fc6f0-97f4-45ed-a151-4dc4827b30b2",
+            "total": 6.95,
+            "used_app": true,
+            "customer_id": "7a82a896-9598-4a59-b8cb-276be02ac3f3",
+            "items": [
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["coffee.espresso.5"],
+                    "category": "espresso",
+                    "price": 6.95
+                }
+            ]
+        },
+        {
+            "id": "cdf21f7a-19a5-4ed2-b2ac-71ef7a15a124",
+            "total": 7.4,
+            "used_app": false,
+            "customer_id": "88734ed9-e5e5-4efe-839e-c2aa8a219346",
+            "items": [
+                {
+                    "name": "latte",
+                    "size": "tall",
+                    "type": "hot",
+                    "add_ins": ["syrup.vanilla"],
+                    "category": "espresso",
+                    "price": 4.95
+                },
+                {
+                    "name": "pike place",
+                    "size": "tall",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "coffee",
+                    "price": 2.45
+                }
+            ]
+        },
+        {
+            "id": "ac920d6b-710a-498f-bb6a-16b4921f7079",
+            "total": 5.95,
+            "used_app": false,
+            "customer_id": "57ec7c48-b2a4-48ac-8865-316412afd7bb",
+            "items": [
+                {
+                    "name": "matcha green tea latte",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": ["syrup.sugar_free_vanilla.1"],
+                    "category": "tea",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "0b9b5b0b-8a37-415e-a729-128b26dbfc28",
+            "total": 7.95,
+            "used_app": false,
+            "customer_id": "11b3b491-b542-4298-9058-129176bec6bb",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["foam.vanilla_sweet_cream_foam"],
+                    "category": "espresso",
+                    "price": 7.95
+                }
+            ]
+        },
+        {
+            "id": "44d53323-6d26-484c-9f86-bcef5078dfc8",
+            "total": 7.75,
+            "used_app": false,
+            "customer_id": "caaabe97-88ae-4d0b-9e41-fa5dc4da4ef8",
+            "items": [
+                {
+                    "name": "vanilla sweet cream cold brew",
+                    "size": "trenta",
+                    "type": "iced",
+                    "add_ins": [
+                        "foam.vanilla_sweet_cream_foam",
+                        "syrup.vanilla.0",
+                        "topping.caramel_drizzle.3"
+                    ],
+                    "category": "coffee",
+                    "price": 7.75
+                }
+            ]
+        },
+        {
+            "id": "8e0a1193-127f-470b-b26f-252a781f55bd",
+            "total": 5.95,
+            "used_app": false,
+            "customer_id": "eabca3f4-a2b5-4dcd-bb45-69fcb630df15",
+            "items": [
+                {
+                    "name": "caramel macchiato",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["coffee.espresso.3"],
+                    "category": "espresso",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "f768335c-a576-4fcc-9e0a-c07b618bb483",
+            "total": 4.65,
+            "used_app": true,
+            "customer_id": "0431f7a0-67bc-40f7-80a8-8bde7f203dc5",
+            "items": [
+                {
+                    "name": "passion tea",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade.2"],
+                    "category": "tea",
+                    "price": 4.65
+                }
+            ]
+        },
+        {
+            "id": "f0bd3025-5382-491f-85ea-55000a1630e9",
+            "total": 8.9,
+            "used_app": false,
+            "customer_id": "1ea82b88-0951-463c-90e6-da4f45604f25",
+            "items": [
+                {
+                    "name": "pike place",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": ["syrup.classic.4", "syrup.vanilla.4"],
+                    "category": "coffee",
+                    "price": 4.45
+                },
+                {
+                    "name": "honey citrus mint tea",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "tea",
+                    "price": 4.45
+                }
+            ]
+        },
+        {
+            "id": "3a12e8c1-3d86-498c-8ccb-7391f2ebe20a",
+            "total": 14.649999999999999,
+            "used_app": false,
+            "customer_id": "371e7968-4fa7-482f-b375-9a4982169b8c",
+            "items": [
+                {
+                    "name": "hot chocolate",
+                    "size": "tall",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 3.75
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": ["syrup.classic.8", "milk.half_half"],
+                    "category": "coffee",
+                    "price": 4.95
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic.0",
+                        "milk.half_half",
+                        "syrup.vanilla.10"
+                    ],
+                    "category": "coffee",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "50fad39b-32a6-44a3-a229-5ce1ca9db53f",
+            "total": 18.599999999999998,
+            "used_app": false,
+            "customer_id": "186497b4-ce13-4926-9432-5a9f3b1b4107",
+            "items": [
+                {
+                    "name": "hot chocolate",
+                    "size": "tall",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 3.75
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": ["syrup.classic.8", "milk.half_half"],
+                    "category": "coffee",
+                    "price": 4.95
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic.0",
+                        "milk.half_half",
+                        "syrup.vanilla.10"
+                    ],
+                    "category": "coffee",
+                    "price": 5.95
+                },
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 3.95
+                }
+            ]
+        },
+        {
+            "id": "9b611eca-10e1-4679-b0ad-dce2b9b17293",
+            "total": 18.85,
+            "used_app": true,
+            "customer_id": "042085b7-eba7-4f79-ac67-bd8177648870",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.45
+                },
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "hot",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.45
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic.0",
+                        "milk.heavy",
+                        "syrup.sugar_free_vanilla"
+                    ],
+                    "category": "coffee",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "40df0e77-ae31-4fbf-a249-a5f06ea52a9a",
+            "total": 19.85,
+            "used_app": true,
+            "customer_id": "814a3090-26fa-4ade-b5f1-ccd073099bf8",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": ["milk.whole", "topping.whip_cream.1"],
+                    "category": "espresso",
+                    "price": 6.95
+                },
+                {
+                    "name": "latte",
+                    "size": "grande",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.sugar_free_vanilla",
+                        "milk.oat",
+                        "topping.cinnamon.1",
+                        "ice.ice.3"
+                    ],
+                    "category": "espresso",
+                    "price": 6.95
+                },
+                {
+                    "name": "iced coffee",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "syrup.classic.3",
+                        "milk.heavy",
+                        "syrup.sugar_free_vanilla"
+                    ],
+                    "category": "coffee",
+                    "price": 5.95
+                }
+            ]
+        },
+        {
+            "id": "6d1153b1-f157-4ba0-9aa9-bfc4a3de6d59",
+            "total": 5.45,
+            "used_app": true,
+            "customer_id": "cc27350e-3dce-496d-bc2c-2e77ff54583a",
+            "items": [
+                {
+                    "name": "iced coffee",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["milk.half_half"],
+                    "category": "coffee",
+                    "price": 5.45
+                }
+            ]
+        },
+        {
+            "id": "ad87fa74-6627-415f-b8ca-a32f6c101d00",
+            "total": 4.45,
+            "used_app": true,
+            "customer_id": "35b22a86-b29f-48f6-9cd6-b059f23a10d8",
+            "items": [
+                {
+                    "name": "strawberry acai refresher",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["juice.lemonade"],
+                    "category": "refresher",
+                    "price": 4.45
+                }
+            ]
+        },
+        {
+            "id": "34a0bd2e-b407-44d1-aee3-fa1bd8f6352f",
+            "total": 15.399999999999999,
+            "used_app": true,
+            "customer_id": "8a8ac9bd-ea48-42cb-afed-6a1d84fa0d6c",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "foam.vanilla_sweet_cream_foam",
+                        "topping.cinnamon.1",
+                        "ice.ice.3"
+                    ],
+                    "category": "espresso",
+                    "price": 8.45
+                },
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.95
+                }
+            ]
+        },
+        {
+            "id": "8e0d321a-7b6d-463e-8c8b-9671bef99226",
+            "total": 15.399999999999999,
+            "used_app": true,
+            "customer_id": "1a1df270-18a1-4152-9aa2-c662ef1ebb6a",
+            "items": [
+                {
+                    "name": "white mocha",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [
+                        "foam.vanilla_sweet_cream_foam",
+                        "topping.cinnamon.1",
+                        "ice.ice.3"
+                    ],
+                    "category": "espresso",
+                    "price": 8.45
+                },
+                {
+                    "name": "brown sugar oatmilk shaken espresso",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": [],
+                    "category": "espresso",
+                    "price": 6.95
+                }
+            ]
+        },
+        {
+            "id": "470dc756-e243-431e-92b3-e109a3028764",
+            "total": 19.35,
+            "used_app": true,
+            "customer_id": "dfb6d4eb-54c5-4b9b-8f15-8cb52dde94b6",
+            "items": [
+                {
+                    "name": "caramel macchiato",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": ["milk.soy"],
+                    "category": "espresso",
+                    "price": 5.95
+                },
+                {
+                    "name": "caramel macchiato",
+                    "size": "grande",
+                    "type": "hot",
+                    "add_ins": ["milk.soy"],
+                    "category": "espresso",
+                    "price": 5.95
+                },
+                {
+                    "name": "caramel macchiato",
+                    "size": "venti",
+                    "type": "iced",
+                    "add_ins": ["topping.caramel_drizzle.3", "milk.soy"],
+                    "category": "espresso",
+                    "price": 7.45
+                }
+            ]
+        }
+    ]
+}
